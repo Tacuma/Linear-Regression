@@ -5,10 +5,10 @@ Linear Regression
 #Description:
 
 This program uses Linear Regression to Determine the relationship between data in the form of a line
-		y = ß0+ß1X1+ß2X2+ß3x3
+		y = ï¿½0+ï¿½1X1+ï¿½2X2+ï¿½3x3
 		
 		
-	X1		X2		X3		Y
+		  X1			X2		        X3	   		Y
          914.72        257.61        755.74        806.05
         1005.79       1070.59        135.71        131.83
          226.99       1057.17        949.13        376.92
