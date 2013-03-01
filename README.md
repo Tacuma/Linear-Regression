@@ -21,7 +21,7 @@ This program uses Linear Regression to Determine the relationship between data i
         1064.89       1059.49        271.19        134.45
 
  From this information, the Program calculates the Coefficients of x1, x2, and x3, which are
- ß0, ß1, ß2, and ß3, the parameters of the Regression Line
+ ß0, ß1, ß2, and ß3, the parameters of the Regression Line.
  
 Output:
 =======
