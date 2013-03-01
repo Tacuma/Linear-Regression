@@ -5,7 +5,7 @@ Linear Regression
 #Description:
 
 This program uses Linear Regression to Determine the relationship between data in the form of a line
-		y = �0+�1X1+�2X2+�3x3
+		y = ß0+ß1X1+ß2X2+ß3x3
 		
 		
 		  X1			X2		        X3	   		Y
@@ -24,4 +24,12 @@ This program uses Linear Regression to Determine the relationship between data i
  
 Output:
 =======
- 
+	Tacuma Solomon
+	@02580808
+	Machine Learning - Linear Regression 3
+
+	Parameters of the Regression Line:
+	1032.69
+ 	 -0.16
+ 	 -0.58
+ 	  0.03
