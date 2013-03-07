@@ -4,7 +4,7 @@ Linear Regression
 
 #Description:
 
-This program uses Linear Regression to Determine the relationship between data in the form of a line
+This program uses Linear Regression to Determine the relationship between data in the form of a line:
 		y = ß0+ß1X1+ß2X2+ß3x3
 		
 		
